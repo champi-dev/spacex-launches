@@ -1,6 +1,6 @@
 # SPACEX LAUNCHES
 
-FullStack app made with React and GraphQL
+FullStack app made with React and GraphQL hosted at https://thawing-crag-91042.herokuapp.com/
 
 ## Installation (both server and client)
 
